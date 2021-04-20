@@ -1,0 +1,1 @@
+@"C:\Program Files\Mono\bin\mcs.bat" -r:System.Data.dll JoystickCapture.cs
